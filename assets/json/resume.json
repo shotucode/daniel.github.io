@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daniel Wu",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wuscdaniel@gmail.com",
+    "phone": "",
+    "url": "https://shotuu.github.io",
+    "summary": "A student interested in tech, looking to change the world.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "wuscdaniel",
+        "url": "https://www.linkedin.com/in/wuscdaniel"
       }
     ]
   },
